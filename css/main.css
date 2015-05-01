@@ -59,8 +59,8 @@ td { vertical-align: top; }
 
 #container {
     width: 45em;
-    margin: auto auto auto auto;
-    display: block;
+    margin: 3em auto 2em auto;
+    display: inline-block;
 
 }
 
@@ -371,10 +371,20 @@ em.fork-and-edit {
 }
 
 .span3{
-    width:270px;
+    width:300px;
     display:block;
+    float:left;
+    margin-left:50px;
+    margin-right: 50px;
+    margin-top:120px;
 }
-[class*="span"] {
-  float: left;
-  margin-left: 20px;
+
+.aboutMe{
+      border-right: 1px solid #D4D4D4;
+      padding: 15px 15px 5px 15px;
+
 }
+.aboutMe p{
+    font-size:13px;
+}
+
