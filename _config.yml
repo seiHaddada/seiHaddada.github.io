@@ -1,0 +1,18 @@
+
+safe:      true
+permalink: pretty
+highlighter: pygments
+markdown:  redcarpet
+exclude:   [ README.md, Gemfile ]
+
+# Build settings
+markdown: kramdown
+
+#site settings
+site:
+    title:  Seif Haddada
+    author: Seif Haddada
+    email:  haddadaseif@gmail.com
+    url:   
+
+my_github:   http://www.github.com/haddada
