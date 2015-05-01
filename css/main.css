@@ -5,8 +5,8 @@ audio:not([controls]) { display: none; }
 html { font-size: 1em; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
 body { background-color: #fff; text-align: justify; margin: 0; line-height: 1.5em; }
 body, button, input, select, textarea { font-family: 'Raleway', sans-serif; color: #222; }
-::-moz-selection { background: #d33682; color: #fff; text-shadow: none; }
-::selection { background: #d33682; color: #fff; text-shadow: none; }
+::-moz-selection { background: #EF4836; color: #fff; text-shadow: none; }
+::selection { background: #EF4836; color: #fff; text-shadow: none; }
 a:focus { outline: thin dotted; }
 a:hover, a:active { outline: 0; }
 abbr[title] { border-bottom: 1px dotted; }
@@ -90,7 +90,7 @@ h3 {
 }
 
 a {
-    color: #d33682;
+    color: #EF4836;
     text-decoration: none;
 }
 
@@ -174,7 +174,7 @@ pre {
 }
 
 blockquote {
-    border-left: 5px solid #d33682;
+    border-left: 5px solid #EF4836;
     padding:0 0 0 10px;
     margin:0.5em auto;
     font-style: italic;

@@ -14,7 +14,8 @@ Yes ,I found a trouble to communicate so I decided to flirt with new style and a
 What !!! flirt with new style ?? …
 
 [Herminia Ibarra] [hermina] [describe] [describe] it like pretending that I am someone else, I know that I ‘am a bad communicator so I will overcome this by writing a blog.
-I whish this can help you or motivate.
+
+I whish that this blog can help you or motivate you to do what ever you want.
 
 
 
