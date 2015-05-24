@@ -387,4 +387,8 @@ em.fork-and-edit {
 .aboutMe p{
     font-size:13px;
 }
+.super{
+  vertical-align: super;
+  font-size: 0.8em;
+}
 
