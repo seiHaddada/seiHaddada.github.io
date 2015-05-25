@@ -2,7 +2,7 @@
 layout: post
 title:  "Rest Api with Symfony !"
 date:   2015-05-12 20:53:51:02
-categories: Rest Symfony
+categories: Rest Symfony thoughts
 ---
 ##Introduction:
 Developing a REST API is not an easy task because it’s hard to make changes once it’s released and 
@@ -139,7 +139,7 @@ private function processPost(Offre $offre, Request $request, $method = "POST")
 
 ###Step 3 :The Controller
 ---
-know after implementing our handler our work is to call those methodes in our offreController 
+now after implementing our handler our work is to call those methodes in our offreController 
 
 {%highlight php%}
 <?
@@ -210,7 +210,7 @@ now let our api speak , we will use nemlio for that.
     ?>
 {%endhighlight%}  
 
-before going farther we should see our work is going in the right direction , this is the routing.yml
+before going further we should see our work is going in the right direction , this is the routing.yml
 
 {%highlight yaml%}
 sprint2rest_getOffres:

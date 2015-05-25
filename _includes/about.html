@@ -2,5 +2,17 @@
 I'am  seif haddada a CS student at esprit university, i'am life long learner.
 I really love Web development
 </p>
-
-
+{% for cat in site.categories %}
+   {{ cat[0] }}
+ 
+  {% for post in site.posts %}
+   {% for tag in post.categories %}
+  	{% if tag == cat[0] %}
+   	 <span class="super">{}
+  	{% endif %}
+  	{% endfor %}
+  	{% endfor %}
+  
+{% endfor %}
+ 
+ 
