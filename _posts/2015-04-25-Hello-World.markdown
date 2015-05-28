@@ -10,7 +10,7 @@ To begin I want to share with you a little secret…. it took me more than an ho
 
 Really ???
 
-Yes ,I found a trouble to communicate so I decided to flirt with new style and approche and begin new experience.
+Yes ,I found a trouble to communicate so I decided to flirt with new style ,new approche and begin new experience.
 What !!! flirt with new style ?? …
 
 [Herminia Ibarra] [hermina] [describe] [describe] it like pretending that I am someone else, I know that I ‘am a bad communicator so I will overcome this by writing a blog.

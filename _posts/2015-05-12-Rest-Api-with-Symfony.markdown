@@ -21,7 +21,7 @@ Since I am going to use Symofny framework wiliam daurad’s [blog post][blog] wa
 ##Pre requires:
 ---
 
-The objective here to create a symfony Bundle inside my application that serves api for Offre
+The objective here is to create a symfony Bundle inside my application that serves api for Offre
 (it’s written in French it means Offer) with get and post using symfony2 [FOSRestBundle][FOSRestBundle], the [NelmioApiDocBundle][NelmioApiDocBundle], the [JSMSerializerBundle][JSMSerializerBundle], and [Doctrine][Doctrine].
 
 {% highlight json %}
