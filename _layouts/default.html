@@ -76,6 +76,7 @@
 
         <div id="main" role="main">
             {{ content }}
+            {% include comments.html %}
         </div>
         
         <footer class="clearfix">
@@ -86,6 +87,7 @@
                     </li>
                     
                 </ul>
+
             </div>
             <div class="presentation">
                 <p>
@@ -120,6 +122,7 @@
             g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
         })();
     </script>
+
     <noscript><p><img src="//piwik.vanoix.co/piwik.php?idsite=4" style="border:0;" alt="" /></p></noscript>
 </body>
 </html>

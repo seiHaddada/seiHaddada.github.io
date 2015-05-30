@@ -3,6 +3,7 @@ layout: post
 title:  "Rest Api with Symfony !"
 date:   2015-05-12 20:53:51:02
 categories: Rest Symfony thoughts
+comments: True
 ---
 ##Introduction:
 Developing a REST API is not an easy task because it’s hard to make changes once it’s released and 
