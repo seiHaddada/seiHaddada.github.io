@@ -13,6 +13,8 @@ site:
     title:  Seif Haddada
     author: Seif Haddada
     email:  haddadaseif@gmail.com
-    url:   
+    url:   http://seihaddada.github.io/
 
 my_github:   http://www.github.com/haddada
+
+production_url : http://seihaddada.github.io/
