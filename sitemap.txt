@@ -1,2 +1,3 @@
 http://seihaddada.github.io/thoughts/2015/04/25/Hello-World/
 http://seihaddada.github.io/rest/symfony/thoughts/2015/05/12/Rest-Api-with-Symfony/
+http://seihaddada.github.io/waterline/sailsjs/mysql/performance/2015/06/10/Association-with-waterline-for-storing-large-ammount-of-text/
