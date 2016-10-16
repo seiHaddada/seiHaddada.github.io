@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "UGLOVE IOT Project (2)!"
+title:  "IOT Project-UGLOVE (2)"
 date:   2016-10-16 00:51:02
 categories: thoughts
 ---

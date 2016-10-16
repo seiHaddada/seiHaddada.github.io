@@ -39,7 +39,7 @@ appKerlnel.php
             new Nelmio\ApiDocBundle\NelmioApiDocBundle(),
 {% endhighlight %}
 
-###Step 1 :The entity
+###**Step 1 :The entity**
 ---
 This is my already implemented Offre entity 
 
@@ -73,7 +73,7 @@ class Offre
 {% endhighlight %}
 actually we will not create a form for this entity we don't recommand this but it is a choice for our project.  
 
-###Step 2: Offre Handler
+###**Step 2: Offre Handler**
 ---
 {%highlight php%}
 <?php
@@ -138,7 +138,7 @@ private function processPost(Offre $offre, Request $request, $method = "POST")
 ?>
 {%endhighlight%}
 
-###Step 3 :The Controller
+###**Step 3 :The Controller**
 ---
 now after implementing our handler our work is to call those methodes in our offreController 
 
@@ -222,7 +222,7 @@ sprint2rest_getOffres:
 
 this should generate a route for us `/v1/offres.{_format}` to see this hit  `app/console router:debug | grep v1` you could access the api with `curl -s` or you can download [chrome extension for rest api client][extension] or simply you can use the http command `http localhost:8000/v1/offres.json`
 
-##The result:
+##**The result:**
 ---
 debuging the router:
 ![debuging the route]({{ site.url }}/images/routingDebug.png)
