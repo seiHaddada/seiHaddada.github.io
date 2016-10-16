@@ -5,11 +5,11 @@ date:   2015-05-12 20:53:51:02
 categories: Rest Symfony thoughts
 comments: True
 ---
-##Introduction:
+## **Introduction:**
 Developing a REST API is not an easy task because it’s hard to make changes once it’s released and 
 It takes so much time designing the api.  
 
-##Case study :
+## **Case study:**
 ---
 
 In my study project I have to develop a multi-platform application (a desktop, mobile, and web)
@@ -19,7 +19,7 @@ Those blog posts helped me to get through the setting up of the API.
 Martin flower [described][described] the model very well .  
 Since I am going to use Symofny framework wiliam daurad’s [blog post][blog] was very helpful.
 
-##Pre requires:
+## **Pre requires:**
 ---
 
 The objective here is to create a symfony Bundle inside my application that serves api for Offre
