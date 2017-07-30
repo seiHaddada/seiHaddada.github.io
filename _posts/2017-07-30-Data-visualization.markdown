@@ -12,7 +12,7 @@ I always turn to books to seek informations, and one of the most recommended aut
 
 ## **A picture is Worth a thousand words**
 
-this ullistration made by "Charles minard" , 1869  demonstrates how we can represent a big volume of informations in a single illustration.
+this illustration made by "Charles minard" , 1869  demonstrates how we can represent a big volume of informations in a single picture.
 
 
 ![ullistration]({{ site.url }}/images/chart-minard.jpg)
